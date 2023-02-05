@@ -1,0 +1,69 @@
+body {
+    font-size: 15pt;
+    font-family: Arial;
+}
+.bio{
+  font-size:50pt;
+  font-family:Arial Black;
+  font-weight: bold;
+  margin-bottom:40px;
+}
+.box{
+  border:2px solid black;
+  height:150px;
+  width :150px;
+  margin-top:5px;
+}
+.title{
+  display:inline-block;
+  padding-left:180px;
+}
+.id{
+  float:right;
+  margin-right:100px;
+}
+.page{
+  height:900px;
+  width:80%;
+}
+.info{
+  height:30px;
+  width:100%;
+  background: black;
+  border-radius:6px;
+}
+label{
+  color:white;
+  float:left;
+  padding:5px;
+  padding-left:10px;
+  font-weight:bold;
+}
+.container{
+  margin-top:5px;
+  border:1px solid black;
+  border-radius:5px;
+  width:100%;
+}
+textarea{
+  outline:none;
+  overflow: hidden;
+  font-size:15px;
+  border:none;
+  height:15px;
+  resize: none;
+  border-bottom:1px solid black;
+}
+.container_last{
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 50%;
+    float:left;
+}
+.signature{
+    margin-top:10px;
+    width: 48%;
+    float:right;
+    font-size:16px;
+}
